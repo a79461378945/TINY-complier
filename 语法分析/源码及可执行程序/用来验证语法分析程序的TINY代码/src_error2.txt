@@ -1,0 +1,4 @@
+{wrong example source code 2:expect identifier}
+int A,B;
+char ;
+A:=B

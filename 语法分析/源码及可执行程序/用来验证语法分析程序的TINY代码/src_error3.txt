@@ -1,0 +1,3 @@
+{wrong example source code 3:expect symbol ')' }
+int A,B;
+A:= ((A+B)+(A*B)

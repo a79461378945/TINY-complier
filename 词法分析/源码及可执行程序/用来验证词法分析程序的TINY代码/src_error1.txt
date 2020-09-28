@@ -1,0 +1,4 @@
+{string can't be defined over lines}
+line 2
+'this is a string 
+aasd'

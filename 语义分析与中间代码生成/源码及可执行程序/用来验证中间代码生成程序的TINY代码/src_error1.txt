@@ -1,0 +1,4 @@
+{error1 redefined identifier}
+int A,B;
+char A;
+B:=1

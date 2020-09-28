@@ -1,0 +1,3 @@
+{wrong example source code 4:expect symbol ':='}
+int A;
+A=5

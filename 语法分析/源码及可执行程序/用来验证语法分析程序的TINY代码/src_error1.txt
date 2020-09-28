@@ -1,0 +1,4 @@
+{wrong example source code 1:expect keyword 'do'}
+int A,B;
+while A<B
+	if A=1 then A:=B

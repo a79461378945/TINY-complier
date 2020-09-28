@@ -1,0 +1,4 @@
+{ type error }
+int A;
+char B;
+A:=B

@@ -1,0 +1,3 @@
+{undefined identifier}
+int A,B;
+C:=1
